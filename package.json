@@ -1,0 +1,10 @@
+{
+  "name": "cat-lover",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "MOHAMED MASSAN",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
